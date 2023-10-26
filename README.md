@@ -6,3 +6,5 @@ Simple converter bot
 4. **_/values_** for _list of tickers_
 5. by **exchangerates** & **cryptocompare** API
 6. json for parsing
+
+© 2022-2023

@@ -1,5 +1,6 @@
-TOKEN = "5397815925:AAH-BX5qh0gj61ZncrPstO2HFVl9aeIU1e8"
+# valid for now
+TOKEN = "5268300350:AAE9e8l7qnXVI5fJn4YUOHtnc4Tf605Nlg0"
 
 headers = {
-    "apikey": "vLId27TILskNprWRtkyKb4haIeWckw7d"
+    "apikey": "94Lm8nzbTyYTUM5mgPcDOUooTV8CHv4G"  # API Key from Exchange Rates Data API
 }

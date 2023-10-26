@@ -5,11 +5,9 @@ from config import headers
 url = "https://api.apilayer.com/exchangerates_data/symbols"
 
 response = requests.get(url, headers=headers, data={})
-answer = json.loads(response.content)['symbols']
+keys = json.loads(response.content)['symbols']  # answer from exchangerates_data
 
-keys = json.loads(response.content)['symbols']
-
-currencies = [key for key in answer]
+currencies = [key for key in keys]  # list of tickers
 
 
 class APIException(Exception):
