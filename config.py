@@ -1,4 +1,4 @@
-# valid for now
+# not valid for now
 TOKEN = "5268300350:AAE9e8l7qnXVI5fJn4YUOHtnc4Tf605Nlg0"
 
 headers = {
